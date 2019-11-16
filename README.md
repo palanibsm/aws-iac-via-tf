@@ -1,2 +1,1 @@
-# aws-iac-via-tf
-# aws-iac-via-tf
+# AWS IaC via TerraForm
